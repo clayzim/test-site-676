@@ -21,7 +21,7 @@
 title: A Networked Service
 email: clayzim@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Playground to get familiar with Jekyll for SI 676,
+  Playground to get familiar with Jekyll for SI 676:
   Networked Services for Libraries, Archives, and Museums.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
